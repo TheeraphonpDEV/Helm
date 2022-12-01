@@ -4,3 +4,10 @@ global:
   activeProfile: dev
   configServerURL: configserver:http://configserver:8071/
   eurekaServerURL: http://eurekaserver:8070/eureka/
+  keyCloakURL: http://keycloak:80/realms/master/protocol/openid-connect/certs
+  tokenuri: http://keycloak:80/realms/master/protocol/openid-connect/token
+  authorizationuri: http://keycloak:80/realms/master/protocol/openid-connect/auth
+  userinfouri: http://keycloak:80/realms/master/protocol/openid-connect/userinfo
+  secretName: tpgitzdev-secret
+  keycloakclientid: tpgitzbank-gateway-ui
+  keycloakclientsecret: IZ0IqonOEHRgB45h2dhdFtV2GP4yX2bp

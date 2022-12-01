@@ -21,3 +21,5 @@ config_enabled: true
 zipkin_enabled: true
 profile_enabled: true
 eureka_enabled: true
+keycloak_enables: true
+resouceserver_enabled: false
