@@ -1,0 +1,27 @@
+dependencies:
+- name: tpgitz-common
+  repository: file://../../tpgitz-common
+  version: 0.1.0
+- name: zipkin
+  repository: file://../../tpgitz-services/zipkin
+  version: 0.1.0
+- name: configserver
+  repository: file://../../tpgitz-services/configserver
+  version: 0.1.0
+- name: eurekaserver
+  repository: file://../../tpgitz-services/eurekaserver
+  version: 0.1.0
+- name: accounts
+  repository: file://../../tpgitz-services/accounts
+  version: 0.1.0
+- name: cards
+  repository: file://../../tpgitz-services/cards
+  version: 0.1.0
+- name: loans
+  repository: file://../../tpgitz-services/loans
+  version: 0.1.0
+- name: gatewayserver
+  repository: file://../../tpgitz-services/gatewayserver
+  version: 0.1.0
+digest: sha256:4b59d44eb0d7832c158613e41c5b1f388672142b5d36cf158861e617cd45df7b
+generated: "2022-12-01T04:28:34.405152+07:00"

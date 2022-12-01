@@ -1,0 +1,6 @@
+dependencies:
+- name: tpgitz-common
+  repository: file://../../tpgitz-common
+  version: 0.1.0
+digest: sha256:eef5da8d1f5938b29d06985886dd7db0ff504dfa09980f90c3eed1ed5848f7b7
+generated: "2022-12-01T04:14:42.7184283+07:00"
